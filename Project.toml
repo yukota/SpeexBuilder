@@ -1,0 +1,7 @@
+name = "SpeexBuilder"
+uuid = "b5478940-1bec-11e9-2bdf-89c47d09caba"
+authors = ["YuK_Ota <whitenightwinter@gmail.com>"]
+version = "0.1.0"
+
+[deps]
+BinaryBuilder = "12aac903-9f7c-5d81-afc2-d9565ea332ae"
